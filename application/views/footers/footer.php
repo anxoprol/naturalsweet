@@ -22,7 +22,7 @@
     .footer-colum ul {
         list-style: none;
         display: flex;
-        margin: 0 auto;
+        margin: 20px auto 0;
         justify-content: space-between;
         padding-left: 0px;
         width: 100%;
